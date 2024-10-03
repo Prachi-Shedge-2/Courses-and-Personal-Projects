@@ -1,0 +1,14 @@
+This Project is a part of the SQL with Data Analytics course by Internshala.
+
+Objective : 
+The objective of this project is to analyze the Netflix Originals dataset using MySQL queries to extract
+meaningful insights and trends. Performing various SQL operations such as GROUP BY, HAVING, ORDER
+BY, LIMIT, JOINS, WINDOW FUNCTIONS, and SUBQUERIES, to gain hands-on experience in
+data analysis usig SQL.
+
+Dataset Descriprion :
+1. Netflix Originals: This dataset contains information about Netflix Originals including title, genre ID, runtime,
+IMDb score, language, premiere date, etc.
+2. Genre Details: This dataset contains information about genres such as genre ID and genre name.
+
+
